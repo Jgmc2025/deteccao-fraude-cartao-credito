@@ -1,0 +1,6 @@
+modelo,recall,precisão,f1,roc_auc,pr_auc
+Regressão Logística,0.8737,0.0547,0.103,0.9623,0.681
+Random Forest,0.7368,0.9333,0.8235,0.9483,0.8018
+XGBoost,0.7895,0.9259,0.8523,0.9789,0.8175
+XGBoost (grid),0.7895,0.9146,0.8475,0.973,0.8142
+XGBoost – limiar ajustado,0.8211,0.6903,0.75,0.9789,0.8175

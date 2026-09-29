@@ -1,0 +1,7 @@
+estratégia,modelo,recall,precisão,f1,pr_auc
+peso das classes,Regressão Logística,0.8737,0.0547,0.103,0.681
+peso das classes,XGBoost,0.7895,0.9259,0.8523,0.8175
+undersampling,Regressão Logística,0.8737,0.0359,0.0689,0.4719
+undersampling,XGBoost,0.8632,0.0478,0.0906,0.7034
+oversampling,Regressão Logística,0.8737,0.0549,0.1032,0.6809
+oversampling,XGBoost,0.7474,0.9342,0.8304,0.811
